@@ -12,11 +12,11 @@ Para descargar este proyecto al computador local:
 1. Ir al directorio principal donde se quiere dejar el repositorio local, y clonar desde el repositorio remoto `https://remote.git`:<br />
 `git clone https://remote.git` <br />
 En este caso: <br />
-`git clone https://github.com/POWERLAB-UTFSM/Altium_Library_P.git`
+`git clone https://github.com/POWERLAB-UTFSM/Altium_Library_POWERLAB.git`
 
 ### Usar Git en Altium
 1. **Save:** Una vez que los cambios se hayan efectuado, guarda el archivo o proyecto.
-1. **Commit:** Clock derecho en el archivo o proyecto, luego `Version Control` -> `Commit`. Añane una nota con los cambios hechos. Los cambios permanecerán en el repositorio local hasta que no se suban los cambios con el siguiente comando.
+1. **Commit:** Click derecho en el archivo o proyecto, luego `Version Control` -> `Commit`. Añade una nota con los cambios hechos. Los cambios permanecerán en el repositorio local hasta que no se suban los cambios con el siguiente comando.
 1. **Push:** Cuando se quiere subir al repositorio remoto todos los cambios efectuados, click derecho en el archivo o proyecto, luego `Version Control` -> `Push`.
 1. **Check:** Verifica que todo se ha subido correctamente al repositorio remoto.
 
