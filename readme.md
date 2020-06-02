@@ -9,6 +9,7 @@ Para descargar este proyecto al computador local:
 1. Instalar Git LFS: https://git-lfs.github.com/
 1. Inicializar Git LFS:<br />
 `git lfs install`
+1. (*Opcional*) Instalar Git Extensions http://gitextensions.github.io/ o algún otro GUI para Git.
 1. Ir al directorio principal donde se quiere dejar el repositorio local, y clonar desde el repositorio remoto `https://remote.git`:<br />
 `git clone https://remote.git` <br />
 En este caso: <br />
